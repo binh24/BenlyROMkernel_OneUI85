@@ -1,4 +1,4 @@
-name: Build BenlyROMkernel
+name: Build BenlyROM Kernel
 
 on:
   workflow_dispatch:
