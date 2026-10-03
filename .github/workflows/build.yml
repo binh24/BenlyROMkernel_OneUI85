@@ -1,4 +1,4 @@
-name: Build ArtisanKRNL
+name: Build BenlyROMkernel
 
 on:
   workflow_dispatch:
