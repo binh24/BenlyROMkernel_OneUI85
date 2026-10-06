@@ -1,4 +1,4 @@
-name: Build BenlyROM Kernel
+name: Build BenlyROM Recovery
 
 on:
   workflow_dispatch:
